@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=IBM+Plex+Sans+Condensed:ital@1&family=IBM+Plex+Sans:ital,wght@1,700&family=IBM+Plex+Serif&family=Tillana&display=swap');
+
+body {
+  background: #C75000;
+  color: black;
+  text-align: center;
+  font-family: 'Tillana', cursive;
+}
+h1 {font-size: large;}
+
+p{ font-size:small;
+}
+a { text-decoration: none;}
+.profile-img {
+  width:50%;
+  border-radius:50%
+}
+
+.btn { 
+  display: block;
+  color:white;
+  padding: 20px;
+  background: grey;
+  margin: 16px;
+  box-shadow: 10px 10px lightgoldenrodyellow;
+}
